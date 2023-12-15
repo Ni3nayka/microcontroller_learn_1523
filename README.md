@@ -3,4 +3,4 @@ Programs and explanations from the microcontroller programming course
 
 ![sdfg](aaa.png)
 привет
-![sdfg]("bbb 1/ccc.png" "test")
+![sdfg](bbb/ccc.png "test")
