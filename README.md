@@ -2,4 +2,5 @@
 Programs and explanations from the microcontroller programming course
 
 ![sdfg](aaa.png)
+привет
 ![sdfg](bbb/ccc.png "test")
